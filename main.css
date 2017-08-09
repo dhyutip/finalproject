@@ -8,7 +8,7 @@ body {
     margin: 0 auto;
     padding: 0 2em;
     background-color: rgb(246, 242, 242);
-    border: 1px solid black;
+    border: 2px solid black;
 }
 header {
     border-bottom: 2px solid black;
