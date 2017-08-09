@@ -43,7 +43,7 @@
             <label>ToDo:</label>
             <input type="text" name="newtask" id="newtask"> <br>
             <label>&nbsp;</label>
-            <input type="submit" name="action" value="Add Task">
+            <input type="submit" name="action" value="Add ToDo">
         </form>
         <br>
 
